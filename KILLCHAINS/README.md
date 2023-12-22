@@ -9,7 +9,7 @@ The term kill chain is a military concept which identifies the structure of an a
 
 Conversely, the idea of "breaking" an opponent's kill chain is a method of defense or preemptive action
 
-[infographic](../img/kill_chain_infographic.png)
+![infographic](../img/cyber-kill-chain-infographic.webp)
 
 The concept has been applied by numerous actors in the I.T. field so, even thought the basic idea remains the same, you'll find different Frameworks carrying different approaches of the killchain concept.
 
