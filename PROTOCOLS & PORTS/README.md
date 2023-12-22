@@ -1,14 +1,20 @@
 # PROTOCOLS AND PORTS
 
+![img](../img/common-network-ports.png)
+
+
 In networking, a protocol is a set of rules for formatting and processing data.
 There are a lot of protocols in I.T., some well-known surch as HTTP and IMAP, and others that are still well-worth knowing like LDAP.
 
-![test](../img/common-network-ports.png)
-
-![img](https://linuxiac.b-cdn.net/wp-content/uploads/2022/03/common-network-ports.png)
-
+# Table of Contents
+1. [WELL-KNOWN PORTS](#well-known-ports)
+2. [PROTOCOLS](#protocols)
+    1. [FTP](#ftp)
+    2. [SSH](#ssh)
 
 ## WELL-KNOWN PORTS
+
+Below you'll find a list of associated [port &rarr; protocol], as well as a description of each protocol.
 
 - 21 &rarr; FTP
 - 22 &rarr; SSH
@@ -27,3 +33,11 @@ There are a lot of protocols in I.T., some well-known surch as HTTP and IMAP, an
 - 443 &rarr; HTTPS
 - 465 &rarr; SMTP
 - 514 &rarr; SYSLOG
+
+## PROTOCOLS
+
+A reminder description on the role of each protocol
+
+### FTP
+
+### SSH
