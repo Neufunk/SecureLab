@@ -24,10 +24,11 @@ I chose to quit my job in mid-2022 for an accelerated 'CyberSecurity Consultant-
 As my courses was coming to the end, I learnt about all the possible career in cybersecurity ([And there are a lot](https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool)), and I choose to make my graduate thesis about **Pentesting** and **Security Audit**, as it was the cybersecurity field that felt the more interesting to me in order to keep evolving.
 
 
-
  # What else
 
-🤝 Let's collaborate! Feel free to contribute, share your expertise, or open issues for discussions. Together, we can strengthen our understanding of cybersecurity and build a safer digital environment.
+ 🙌 [GET IN TOUCH on LinkedIn](https://www.linkedin.com/in/joor/)
+
+🤝 Let's collaborate! Feel free to share your expertise, or open issues for discussions. Together, we can strengthen our understanding of cybersecurity and build a safer digital environment.
 
 📚 Knowledge is power, and in cybersecurity, it's our best defense. Join me on this learning adventure, and let's fortify our defenses against the ever-evolving cyber landscape. 💻🛡️
 
